@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Massimo<h1> 
+### <h1 align="center">Hi 👋🏻, I'm Massimo</h1> 
 
-<br>
+<br/>
 
-- 🔭 I’m currently attending a full stack developer course with Develhope   
+- 💻 I’m currently attending a full stack developer course with Develhope   
 - :books: I’m currently learning React
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/massimo-caser-5532b5248/) or [Gmail](massimocaser@gmail.com)
