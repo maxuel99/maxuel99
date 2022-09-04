@@ -7,11 +7,9 @@
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/massimo-caser-5532b5248/) or [Gmail](massimocaser@gmail.com)
 
-<br>
-<br>
-<br>
+<br/>
 
-Languages and Tools:
+<h2>Languages and Tools:</h2>
 
 <img src="https://user-images.githubusercontent.com/104093060/188332451-069f5a14-6b38-4091-bf4e-dd36fe1ec6cb.png" width=50><img src="https://user-images.githubusercontent.com/104093060/188332406-fb3f8fdd-909c-4741-822a-a4b49cad46d3.png" width=50>
 <img src="https://user-images.githubusercontent.com/104093060/188332421-68544eb1-1d3f-4ab4-935d-4f30fa68f198.png" width=50>
