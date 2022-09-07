@@ -18,6 +18,6 @@
 <img src="https://user-images.githubusercontent.com/104093060/188332480-5ceefa9c-1f6c-4c11-b4c5-17c95d27e0dd.png" width=50>
 <img src="https://user-images.githubusercontent.com/104093060/188332487-f40070f9-104a-4089-94be-65138c1d4df5.png" width=50>
 <img src="https://user-images.githubusercontent.com/104093060/188332498-2f707aa6-5fd3-4e40-982c-cedbd7df712a.png" width=50>
-<img src="https://user-images.githubusercontent.com/104093060/188332504-05890e81-ecbb-47e2-9633-89d6bef4ebe9.png" width=50>
-<img src="https://user-images.githubusercontent.com/104093060/188332508-a03b07e8-143f-40f2-a322-6d71ff085829.png" width=50>
-
+<img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width=50>
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width=50>
+<img src="https://damiandeluca.com.ar/wp-content/uploads/2018/04/gologo.png" width=55>
