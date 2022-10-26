@@ -21,3 +21,11 @@
 <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width=50>
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width=50>
 <img src="https://damiandeluca.com.ar/wp-content/uploads/2018/04/gologo.png" width=55>
+
+<br />
+
+<div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=maxuel99&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxuel99&layout=compact" />
+</div>
+
